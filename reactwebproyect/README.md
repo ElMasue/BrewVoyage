@@ -1,44 +1,44 @@
-# 🍻 **CervezaMundo** - Tu portal de cervezas artesanales
+# 🍻 **Brew Voyage** - Your Craft Beer Portal
 
-¡Bienvenido a **CervezaMundo**! Este proyecto es una página web dedicada a los amantes de la cerveza, donde puedes explorar marcas, conocer su historia, ver imágenes de sus productos y contactarnos para cualquier consulta.
-
----
-
-## **Contenido de la página**
-
-### 1. **Inicio (Home)**
-- **Hero Section:** Una sección destacada con un mensaje de bienvenida y una imagen de fondo relacionada con cervezas.
-- **Cervezas Destacadas:** Una lista de cervezas populares con imágenes, nombres y descripciones breves.
-- **Modal de Detalles:** Al hacer clic en una cerveza, se abre un modal con más información, incluyendo una imagen grande, una descripción detallada y fotos adicionales de productos.
-
-### 2. **Galería de Marcas (Gallery)**
-- **Lista de Marcas:** Una colección de marcas de cerveza con imágenes y nombres.
-- **Modal de Marcas:** Al seleccionar una marca, se muestra un modal con:
-  - Una imagen de la marca.
-  - Una breve historia o descripción.
-  - Tres imágenes de productos relacionados.
-
-### 3. **Contacto (Contact)**
-- **Formulario de Contacto:** Un formulario para que los usuarios envíen sus consultas, sugerencias o comentarios.
-- **Mapa Interactivo:** Un mapa que muestra la ubicación de nuestra tienda principal.
-
-### 4. **Política de Privacidad y Cookies (Privacy Policy)**
-- Información detallada sobre cómo recopilamos, usamos y protegemos los datos de los usuarios.
-- Explicación sobre el uso de cookies en el sitio.
-
-### 5. **Términos y Condiciones (Terms and Conditions)**
-- Normas y condiciones de uso del sitio web.
-- Información sobre derechos y responsabilidades de los usuarios.
+Welcome to **Brew Voyage**! This project is a website dedicated to beer enthusiasts, where you can explore brands, learn about their history, view images of their products, and contact us for any inquiries.
 
 ---
 
-## **Tecnologías utilizadas**
+## **Page Content**
+
+### 1. **Home**
+- **Hero Section:** A highlighted section with a welcome message and a background image related to beer.
+- **Featured Beers:** A list of popular beers with images, names, and brief descriptions.
+- **Details Modal:** Clicking on a beer opens a modal with more information, including a large image, a detailed description, and additional product photos.
+
+### 2. **Brand Gallery (Gallery)**
+- **Brand List:** A collection of beer brands with images and names.
+- **Brand Modal:** When selecting a brand, a modal is displayed with:
+  - An image of the brand.
+  - A brief history or description.
+  - Three related product images.
+
+### 3. **Contact**
+- **Contact Form:** A form for users to send their questions, suggestions, or comments.
+- **Interactive Map:** A map showing the location of our main store.
+
+### 4. **Privacy Policy and Cookies (Privacy Policy)**
+- Detailed information on how we collect, use, and protect user data.
+- Explanation of cookie usage on the site.
+
+### 5. **Terms and Conditions**
+- Rules and conditions for using the website.
+- Information about user rights and responsibilities.
+
+---
+
+## **Technologies Used**
 - **Frontend:**
-  - React.js (para la construcción de la interfaz de usuario).
-  - React Leaflet (para el mapa interactivo).
-  - CSS (para el diseño y estilos).
-- **Dependencias:**
-  - `react-leaflet` y `leaflet` para el mapa.
-  - `react-router-dom` para la navegación entre páginas.
+  - React.js (for building the user interface).
+  - React Leaflet (for the interactive map).
+  - CSS (for design and styling).
+- **Dependencies:**
+  - `react-leaflet` and `leaflet` for the map.
+  - `react-router-dom` for page navigation.
 
 ---
