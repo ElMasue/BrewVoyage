@@ -1,0 +1,87 @@
+/* ======== FOOTER ======== */
+.footer {
+    background-color: #4a4a4a; /* Gris medio (fondo del footer) */
+    color: #ffffff; /* Blanco (texto) */
+    padding: 40px 20px;
+    text-align: center;
+    border-top: 2px solid #d4a55f; /* Borde superior dorado para diferenciarlo */
+}
+
+.footer-container {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+.footer-section {
+    flex: 1;
+    min-width: 250px;
+    margin-bottom: 20px;
+}
+
+.footer-section h3 {
+    font-size: 1.5rem;
+    margin-bottom: 15px;
+    color: #d4a55f; /* Dorado cerveza (títulos) */
+}
+
+.social-icons {
+    display: flex;
+    gap: 15px;
+    justify-content: center;
+}
+
+.social-link {
+    color: #ffffff; /* Blanco (iconos) */
+    font-size: 1.8rem;
+    transition: transform 0.3s ease, color 0.3s ease;
+}
+
+.social-link:hover {
+    transform: scale(1.2);
+    color: #d4a55f; /* Dorado cerveza (hover) */
+}
+
+.footer-section ul {
+    list-style: none;
+    padding: 0;
+}
+
+.footer-section ul li {
+    margin: 10px 0;
+}
+
+.footer-section a {
+    color: #ffffff; /* Blanco (enlaces) */
+    text-decoration: none;
+    transition: color 0.3s ease;
+}
+
+.footer-section a:hover {
+    color: #d4a55f; /* Dorado cerveza (hover) */
+}
+
+.footer-bottom {
+    margin-top: 20px;
+    font-size: 0.9rem;
+    opacity: 0.8;
+    color: #d4a55f; /* Dorado cerveza (texto inferior) */
+}
+
+/* ======== RESPONSIVE ======== */
+@media (max-width: 768px) {
+    .footer-container {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .social-icons {
+        justify-content: center;
+    }
+
+    .footer-section {
+        text-align: center;
+    }
+}
