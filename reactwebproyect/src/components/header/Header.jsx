@@ -17,6 +17,8 @@ function Header() {
           <Link to="/" className="nav-link">Home</Link>
           <Link to="/gallery" className="nav-link">Galería de Marcas</Link>
           <Link to="/contact" className="nav-link">Contacte con nosotros</Link>
+          <Link to="/comments" className="nav-link">Opiniones</Link>
+          <Link to="/rss" className="nav-link">Noticias</Link>
         </div>
         <button className="menu-button" onClick={toggleMobileMenu}>
           ☰
@@ -44,6 +46,9 @@ function Header() {
         <Link to="/" className="mobile-nav-link" onClick={toggleMobileMenu}>Home</Link>
         <Link to="/gallery" className="mobile-nav-link" onClick={toggleMobileMenu}>Galería de Marcas</Link>
         <Link to="/contact" className="mobile-nav-link" onClick={toggleMobileMenu}>Contacte con nosotros</Link>
+        <Link to="/comments" className="mobile-nav-link" onClick={toggleMobileMenu}>Opiniones</Link>
+        <Link to="/rss" className="mobile-nav-link" onClick={toggleMobileMenu}>Noticias</Link>
+
       </div>
     </header>
   );

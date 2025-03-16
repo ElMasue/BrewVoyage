@@ -1,6 +1,6 @@
 import { useState } from "react";
 import './contact.css';
-import Maps from '../../components/maps/Maps'; // Importa el componente Maps
+import Maps from '../../components/maps/Maps';
 
 function Contact() {
   const [formData, setFormData] = useState({

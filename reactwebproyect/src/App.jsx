@@ -6,6 +6,8 @@ import Gallery from './pages/Gallery/Gallery';
 import Contact from './pages/Contact/Contact';
 import Cookies from './pages/cookies/Cookies';
 import TermsAndConditions from './pages/terms-conditions/TermsConditions';
+import CommentsPage from "./pages/comments-page/CommentsPage";
+import RssPage from "./pages/Rss/RssPage";
 
 function App() {
   return (
@@ -18,6 +20,8 @@ function App() {
         <Route path="/contact" element={<Contact />} />
         <Route path="/cookies" element={<Cookies />} />
         <Route path="/terms-conditions" element={<TermsAndConditions />} />
+        <Route path="/comments" element={<CommentsPage />} />
+        <Route path="/rss" element={<RssPage />} />
       </Routes>
       <Footer />
     </Router>
