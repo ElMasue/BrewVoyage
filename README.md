@@ -7,7 +7,7 @@
 
 Welcome to **Brew Voyage**, the ultimate portal for craft beer enthusiasts. Explore brands, discover their stories, and share your opinions.
 
-![RSS Feed in FeedReader Screenshot](https://via.placeholder.com/800x400.png?text=RSS+Feed+in+FeedReader+Screenshot)  
+![RSS Feed in FeedReader Screenshot](https://github.com/ElMasue/BrewVoyage/blob/third_delivery/rss-feedreader.png)  
 *(Replace this with your actual FeedReader verification screenshot)*
 
 ## ✨ Key Features
