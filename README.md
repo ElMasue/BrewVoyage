@@ -8,7 +8,6 @@
 Welcome to **Brew Voyage**, the ultimate portal for craft beer enthusiasts. Explore brands, discover their stories, and share your opinions.
 
 ![RSS Feed in FeedReader Screenshot](https://github.com/ElMasue/BrewVoyage/blob/third_delivery/rss-feedreader.png)  
-*(Replace this with your actual FeedReader verification screenshot)*
 
 ## ✨ Key Features
 
@@ -30,7 +29,7 @@ Welcome to **Brew Voyage**, the ultimate portal for craft beer enthusiasts. Expl
 ### 📰 RSS News Feed
 - Updated beer industry news
 - FeedReader compatible
-- [View XML feed](/feed.xml)
+- [View XML feed](https://brewvoyage-87047.web.app/feed.xml)
 
 ## 🛠 Tech Stack
 
