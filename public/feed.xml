@@ -2,13 +2,13 @@
 <rss version="2.0">
 <channel>
   <title>BrewVoyage</title>
-  <link>https://tudominio.com/rss</link>
+  <link>https://brewvoyage-87047.web.app</link>
   <description>Últimas noticias del mundo cervecero</description>
   
   <item>
     <id>1</id>
     <title>Nueva IPA Artesanal</title>
-    <link>https://tudominio.com/rss#1</link>
+    <link>https://brewvoyage-87047.web.app/rss#1</link>
     <description>La cervecería local "Lúpulo Dorado" lanza su nueva IPA con intensos aromas cítricos y un amargor balanceado de 65 IBU. Disponible desde el 20 de julio.</description>
     <pubDate>Mon, 15 Jul 2024 12:00:00 GMT</pubDate>
   </item>
@@ -16,7 +16,7 @@
   <item>
     <id>2</id>
     <title>Festival Cervecero 2024</title>
-    <link>https://tudominio.com/rss#2</link>
+    <link>https://brewvoyage-87047.web.app/rss#2</link>
     <description>El festival internacional de cervezas artesanales se celebrará en Madrid del 15 al 18 de agosto, con más de 100 expositores y catas guiadas.</description>
     <pubDate>Fri, 12 Jul 2024 09:30:00 GMT</pubDate>
   </item>
@@ -24,7 +24,7 @@
   <item>
     <id>3</id>
     <title>Premio a la Mejor Stout Europea</title>
-    <link>https://tudominio.com/rss#3</link>
+    <link>https://brewvoyage-87047.web.app/rss#3</link>
     <description>La cerveza "Noche Oscura" de Galicia gana el premio a la mejor stout en el European Beer Challenge 2024, destacando por sus notas a café y chocolate.</description>
     <pubDate>Wed, 10 Jul 2024 16:45:00 GMT</pubDate>
   </item>
@@ -32,7 +32,7 @@
   <item>
     <id>4</id>
     <title>Tendencias Cerveceras 2024</title>
-    <link>https://tudominio.com/rss#4</link>
+    <link>https://brewvoyage-87047.web.app/rss#4</link>
     <description>Las cervezas bajas en alcohol y las sour beers lideran las preferencias este año, según el último informe de la Asociación de Cerveceros Artesanales.</description>
     <pubDate>Tue, 09 Jul 2024 11:20:00 GMT</pubDate>
   </item>
@@ -40,7 +40,7 @@
   <item>
     <id>5</id>
     <title>Nueva Cervecería Sustentable</title>
-    <link>https://tudominio.com/rss#5</link>
+    <link>https://brewvoyage-87047.web.app/rss#5</link>
     <description>"EcoBrew" abre sus puertas en Barcelona, utilizando energía solar y procesos de cero desperdicio en la producción de sus cervezas orgánicas.</description>
     <pubDate>Mon, 08 Jul 2024 14:15:00 GMT</pubDate>
   </item>
@@ -48,7 +48,7 @@
   <item>
     <id>6</id>
     <title>Curso de Maridaje Cervecero</title>
-    <link>https://tudominio.com/rss#6</link>
+    <link>https://brewvoyage-87047.web.app/rss#6</link>
     <description>La escuela gastronómica ofrece un nuevo taller especializado en maridar cervezas con comida, comenzando el 5 de septiembre. Plazas limitadas.</description>
     <pubDate>Fri, 05 Jul 2024 10:00:00 GMT</pubDate>
   </item>
